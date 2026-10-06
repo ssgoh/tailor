@@ -1,0 +1,6 @@
+{
+  "name": "Sartor - Bespoke Tailor Atelier",
+  "description": "Bespoke tailoring management for client anatomical measurements, order production statuses, and customer style and material customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
